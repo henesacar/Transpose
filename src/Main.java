@@ -5,7 +5,7 @@ public class Main {
         int[][] arr2 = {{1, 2, 3}, {4, 5, 6}};
 
         transpose(arr);
-        System.out.println("----------------------");
+        System.out.println("**********************");
         transpose(arr2);
     }
 
